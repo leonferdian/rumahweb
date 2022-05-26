@@ -5,7 +5,7 @@ Panduan aplikasi
 Terdapat 2 seksi pada aplikasi registrasi user
 
 1. User Member
-Dapat diakses di (localhost//rumahweb) jika offline
+Dapat diakses di (http://localhost/rumahweb) jika offline
 pada halaman utama akan disediakan form registrasi member. Setelah registrasi berhasil maka akan masuk ke halaman login webhost/path/member/login.
 Setelah berhasil login dengan email dan password maka akan dialihkan ke halaman dashboard member yang berisi list member yang sedang online.
 Untuk edit profile user terdapat pada menu profile pada navigasi akun.
