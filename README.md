@@ -10,6 +10,7 @@ pada halaman utama akan disediakan form registrasi member. Setelah registrasi be
 Setelah berhasil login dengan email dan password maka akan dialihkan ke halaman dashboard member yang berisi list member yang sedang online.
 Untuk edit profile user terdapat pada menu profile pada navigasi akun.
 Terdapat pula menu list all user yang berisi list data user yang dirangkum dalam bentuk format JSON.
+Database ada pada folder db/administrator.sql
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
